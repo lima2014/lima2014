@@ -1,4 +1,4 @@
-- 👋Hi, I'm @lima2014
+- 👋Hi, I'm Francisco Lima
 - 👀 I'm interested in migrating to Development
 - 🌱I'm currently updating JavaScript/HTML/CSS
 - 💞️I try to collaborate on JavaScript projects
